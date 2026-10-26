@@ -1,0 +1,4 @@
+*.zip
+.$*.bkp
+*.drawio.bkp
+.vscode/
