@@ -33,6 +33,7 @@ O objetivo central desta arquitetura é garantir que a aplicação funcione com 
 | [`docs/arquitetura-cloud-segura.png`](docs/arquitetura-cloud-segura.png) | Exportação em alta resolução do diagrama da arquitetura. |
 | [`docs/justificativa_tecnica.pdf`](docs/justificativa_tecnica.pdf) | **Justificativa técnica completa** com todas as decisões de projeto e segurança. |
 | [`docs/fluxos_de_comunicacao.md`](docs/fluxos_de_comunicacao.md) | **Tabelas de fluxos de rede:** conexões permitidas, regras de Security Groups, NACLs e conexões bloqueadas. |
+| [`docs/slides_apresentacao.pdf`](docs/slides_apresentacao.pdf) | **Slides da apresentação da equipe** em PDF (9 slides diretos e visuais). |
 
 ---
 
